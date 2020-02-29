@@ -26,7 +26,7 @@ Feel free to use a Mock API.
 - As a user I can see the matching filter in bold in the results. (ie. **Ama**nda Smith)
 - As a user I can view all possible results at any time during my input.
 - As a user I can view APP on Mobile, Tablet and Computer.
-- As a user I can comment on the page and do the following to the comment: view, update, update, delete, and save draft.
+- As a user I can comment on the page and do the following to the comment: view, update, delete, and save draft.
 
 Feel free to go above and beyond if you have ideas for extra features!
 
