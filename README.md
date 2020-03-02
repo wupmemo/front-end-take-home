@@ -29,10 +29,18 @@ Feel free to use a Mock API.
 - As a user I can select a result and it will populate the input.
 - As a user I can see the matching filter in bold in the results. (ie. **Mal**aysia Selangor)
 - As a user I can view all possible results at any time during my input.
-- As a user I can view APP on Mobile, Tablet and Computer.
+- As a user I can view App on Mobile, Tablet or Desktop.
 - As a user I can comment on the page and do the following to the comment: view, update, delete, and save draft.
 
 Feel free to go above and beyond if you have ideas for extra features!
+
+### Notes and recommendations
+
+- We use ReactJS and ReactNative
+- The languages, frameworks and libraries mentioned are recommendations only, you are free to use whatever you are comfortable with.
+- The project structure is up to you to decide
+- You are recommended to use git commits in a logical manner to demonstrate the development progress
+- Writing tests and adhering to development standards/conventions will let you gain extra points :)
 
 ### Submitting
 
