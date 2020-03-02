@@ -13,8 +13,9 @@ This take home test is used to determine how you go about solving problems logic
 ### Coding Challenge
 
 Build an app containing a typeahead input field.
-A user should be able to type into, and while typing it should to show possible results based on that input; the user should be able to select a result to populate the field.
-Add a feature that accepts user comments and populate thesame comment on thesame page.
+A user should be able to type into, and while typing it should show possible results based on that input; the user should be able to select a result to populate the field.
+Add a feature that accept user comment and display the entry below.
+
 Feel free to decide on implementation design and the concepts.
 
 Example: https://reactcommunity.org/react-autocomplete/async-data/
