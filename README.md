@@ -23,7 +23,7 @@ Feel free to use a Mock API.
 
 - As a user I can start typing into the field, and filtered results will show up as I type
 - As a user I can select a result and it will populate the input.
-- As a user I can see the matching filter in bold in the results. (ie. **Ma**ria Alice)
+- As a user I can see the matching filter in bold in the results. (ie. **Mal**aysia Selangor)
 - As a user I can view all possible results at any time during my input.
 - As a user I can view APP on Mobile, Tablet and Computer.
 - As a user I can comment on the page and do the following to the comment: view, update, delete, and save draft.
