@@ -1,0 +1,20 @@
+{
+  "product": [
+    {
+      "name": "product 1",
+      "productId": 10001
+    }
+  ],
+  "user": [
+    { "name": "mohammed foaud",
+      "address": "Bandar Baru Sentul",
+      "postcode": "51000",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "account": {
+          "username": "memo",
+          "email": "e_memo90@hotmail.com"
+        }
+    }
+  ]
+}
